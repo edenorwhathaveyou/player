@@ -1,6 +1,7 @@
 <p align="center">
   <img src="logo0.png" alt="logo" width="200">
 </p>
+
 # Player
 A super-duper simple video player written in C using GTK.
 
