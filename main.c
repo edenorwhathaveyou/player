@@ -7,7 +7,8 @@ static void apply_css(void)
     gtk_css_provider_load_from_string(
         provider,
         ".imgay {"
-        "  background-color: #000000;"
+        "  background-color: #000;"
+        "  color: #fff;"
         "}"
     );
 
