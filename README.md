@@ -4,6 +4,7 @@
 
 # Player
 A super-duper simple video player written in C using GTK.
+It probably has weird codec issues I don't know about, feel free to make an issue or PR!
 
 ## Dependencies
 
