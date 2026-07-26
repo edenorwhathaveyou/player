@@ -1,7 +1,18 @@
 # Player
-super duper simple video player coded in C, using the GTK library.
-# Dependencies
+
+A super-duper simple video player written in C using GTK.
+
+## Dependencies
+
 - GTK 4
 - GStreamer
-# Binaries
-go to releases, or compile yourself!
+
+## Installation
+
+Download a prebuilt (linux) binary from the Releases page, or build it yourself from source.
+
+## Attribution
+
+- GTK, The GNOME Foundation
+- Logo, My friend
+- Code, Me
